@@ -20,7 +20,7 @@ function App() {
     resolved: 0,
   });
 
-  const API = " https://thin-rules-invent.loca.lt";
+  const API = "https://college-helpdesk-system-zq6d.onrender.com/api";
 
   const handleLogin = async () => {
     try {
